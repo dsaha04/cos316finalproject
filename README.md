@@ -1,5 +1,4 @@
 # cos316finalproject
-COS 316 Final Project
 
 Code for paper **[LeCaR Caching with Multi Armed Bandits](https://drive.google.com/file/d/1lWXxvoJoE6FEdPxVEQUz_vtkzNX9kzqo/view)**.
 
